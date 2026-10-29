@@ -1,16 +1,79 @@
-## Hi there 👋
 
-<!--
-**erickavitoria06/erickavitoria06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Olá! Eu sou Ericka Vitória 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Estudante de Sistemas de Informação | 💻 Desenvolvedora em formação
+
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
+  🙋‍♀️ Olá! Meu nome é Ericka Vitória Aguiar Alves, sou técnica em Informática e atualmente curso Sistemas de Informação na FACI Wyden.
+</p>
+
+<p align="left">
+  👩‍💻 Tenho interesse em desenvolvimento de software, desenvolvimento web, banco de dados e ciência de dados. Busco aprimorar meus conhecimentos por meio de projetos acadêmicos e experiências práticas.
+</p>
+
+<p align="left">
+  🚀 Também participo de projetos de tecnologia e inovação, explorando soluções que conectam tecnologia, sustentabilidade e impacto social.
+</p>
+
+---
+
+### 💻 Linguagens de programação
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+### 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sql,git,github,vscode" />
+</p>
+
+### 📚 Atualmente estudando
+
+- Python para Ciência de Dados;
+- Estruturas de Dados;
+- Desenvolvimento de Software;
+- Integração de Sistemas.
+
+### 🚀 Projetos em destaque
+
+- **Passaporte Digital:** desenvolvimento de uma aplicação web em equipe.
+- **Sistema de Reservas de Hotel:** projeto acadêmico desenvolvido em Python.
+- **Sistema de Gestão de Clínica:** projeto de desenvolvimento de software.
+- **FaciCoin e ESG:** iniciativa envolvendo tecnologia, sustentabilidade e incentivos acadêmicos.
+
+### 🎓 Formação
+
+- **Sistemas de Informação** — FACI Wyden (em andamento).
+- **Técnico em Informática** — EETEPA Magalhães Barata (2024).
+
+### 🌱 Objetivo
+
+Evoluir como profissional de tecnologia, desenvolver soluções inovadoras e conquistar oportunidades de estágio e crescimento na área de TI.
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *Sempre aprendendo, desenvolvendo e transformando ideias em soluções!*
+
+</div>

@@ -62,18 +62,7 @@ Evoluir como profissional de tecnologia, desenvolver soluções inovadoras e con
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
-
-</div>
-
----
-
-<div align="center">
-
 ✨ *Sempre aprendendo, desenvolvendo e transformando ideias em soluções!*
 
 </div>
+

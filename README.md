@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  🙋‍♀️ Olá! Meu nome é Ericka Vitória Aguiar Alves, sou técnica em Informática e atualmente curso Sistemas de Informação na FACI Wyden.
+  🙋‍♀️ Olá! Meu nome é Ericka Vitória Aguiar Alves, sou técnica em Informática e atualmente curso Sistemas de Informação na Faci Wyden.
 </p>
 
 <p align="left">
@@ -44,14 +44,13 @@
 
 ### 🚀 Projetos em destaque
 
-- **Passaporte Digital:** desenvolvimento de uma aplicação web em equipe.
 - **Sistema de Reservas de Hotel:** projeto acadêmico desenvolvido em Python.
 - **Sistema de Gestão de Clínica:** projeto de desenvolvimento de software.
-- **FaciCoin e ESG:** iniciativa envolvendo tecnologia, sustentabilidade e incentivos acadêmicos.
+- **WydenCoins:** iniciativa envolvendo tecnologia, sustentabilidade e incentivos acadêmicos.
 
 ### 🎓 Formação
 
-- **Sistemas de Informação** — FACI Wyden (em andamento).
+- **Sistemas de Informação** — Faci Wyden (em andamento).
 - **Técnico em Informática** — EETEPA Magalhães Barata (2024).
 
 ### 🌱 Objetivo

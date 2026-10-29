@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  🚀 Também participo de projetos de tecnologia e inovação, explorando soluções que conectam tecnologia, sustentabilidade e impacto social.
+  🚀 Também estou participando de projetos de tecnologia e inovação, explorando soluções que conectam tecnologia, sustentabilidade e impacto social.
 </p>
 
 ---
